@@ -1,4 +1,4 @@
-name := "breeze-template"
+name := "$name$"
 
 version := "0.1-SNAPSHOT"
 
