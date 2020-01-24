@@ -1,6 +1,6 @@
 A [Giter8](http://www.foundweekends.org/giter8/) template for [Scala Breeze](https://github.com/scalanlp/breeze)!
 
-* Breeze 1.0, Scala 2.13.0, Sbt 1.3.0-RC3
+* Breeze 1.0, Scala 2.12.10, Sbt 1.3.3
 
 ```bash
 sbt new darrenjw/breeze.g8
