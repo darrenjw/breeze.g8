@@ -1,4 +1,4 @@
-import org.scalatest.anyflatspec.AnyFlatSpec
+import org.scalatest.flatspec.AnyFlatSpec
 
 class SetSpec extends AnyFlatSpec {
 
