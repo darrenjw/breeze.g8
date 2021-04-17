@@ -1,6 +1,6 @@
 A [Giter8](http://www.foundweekends.org/giter8/) template for [Scala Breeze](https://github.com/scalanlp/breeze)!
 
-* Breeze 1.1, Scala 2.12.10, Sbt 1.3.3
+* Breeze 1.2, Scala 2.13.5, Sbt 1.5.0
 
 ```bash
 sbt new darrenjw/breeze.g8
@@ -8,7 +8,7 @@ sbt new darrenjw/breeze.g8
 
 Template license
 ----------------
-Written in 2019 by Darren Wilkinson darrenjwilkinson@btinternet.com
+Written in 2017 by Darren Wilkinson darrenjwilkinson@btinternet.com (and updated periodically)
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
